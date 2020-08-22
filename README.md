@@ -3,9 +3,9 @@ PC INTRO demo
 
 ## Content
 1. 32b PC INTRO
-* m30
+    * m30
 2. Fire
-* 256b PC INTRO
+    * 256b PC INTRO
 
 ## Requirements:
 * [DOSBox][1]
