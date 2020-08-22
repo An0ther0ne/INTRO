@@ -4,12 +4,12 @@
 ![fire256b.gif](img/fire256b.gif)
 
 ## Content
-1. 32b PC INTRO
-    * m30
+### 32b PC INTRO
+* m30
     [Source](32b/m30.asm)
 
-2. 256b PC INTRO
-    * fire256b
+### 256b PC INTRO
+* fire256b
     [Source](256b/fire.asm)
     [Video](https://youtu.be/oFza4WA_P8I)
 
