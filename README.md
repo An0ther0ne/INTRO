@@ -1,5 +1,5 @@
-# PC INTRO
-PC INTRO demo
+# PC INTRO demo
+
 ![m30.gif](img/m30.gif)
 ![fire256b.gif](img/fire256b.gif)
 
