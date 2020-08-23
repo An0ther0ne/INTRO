@@ -4,15 +4,13 @@ org 100h
 .386
 start:
 	les	bx,	dword ptr [bx]
-	push	es
-	pop	ds
 	mov	al,	13h
 	int	10h
 @mlop:
-	xor	di,	di
-	mov	si,	320
+	mov	di,	16
+	mov	si,	320 + 16
 	mov	cx,	320 * 199
-@lp2:	lodsb
+@lp2:	seges	lodsb
 	xchg	al,	ah
 	xor	al,	ah
 	stosb

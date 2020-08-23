@@ -3,8 +3,7 @@
 org 100h
 .386
 start:
-	push	0A000h
-	pop	es
+	les	bx,	dword ptr [bx]
 	push	es
 	pop	ds
 	mov	al,	13h
@@ -22,3 +21,4 @@ start:
 	stosb
         jmp	short	@mlop
 end	start
+
