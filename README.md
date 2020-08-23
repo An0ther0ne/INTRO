@@ -2,7 +2,7 @@
 
 ![m30.gif](img/m30.gif)
 ![fire256b.gif](img/fire256b.gif)
-![serpin31.gif](img/serpin31.gif)
+![serpin29n.gif](img/serpin29n.gif)
 ![kasp16.gif](img/kasp16.gif)
 ![kasp2.gif](img/kasp2.gif)
 ![kasp3.gif](img/kasp3.gif)
