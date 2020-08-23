@@ -6,10 +6,12 @@
 ## Content
 ### 32b PC INTRO
 * m30
+    Size: 30 bytes
     [Source](32b/m30.asm)
 
 ### 256b PC INTRO
 * fire256b
+    Size: 253 bytes
     [Source](256b/fire.asm)
     [Video](https://youtu.be/oFza4WA_P8I)
 
