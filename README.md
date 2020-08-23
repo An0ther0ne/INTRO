@@ -7,12 +7,14 @@
 ### 32b PC INTRO
 * m30
     * Size: 30 bytes
+    * [Binary](bin/m30.com)
     * [Source](32b/m30.asm)
 
 ### 256b PC INTRO
-* fire256b
+* fire253
     * Size: 253 bytes
-    * [Source](256b/fire.asm)
+    * [Binary](bin/fire253.com)
+    * [Source](256b/fire253.asm)
     * [Video](https://youtu.be/oFza4WA_P8I)
 
 ## Binaries
