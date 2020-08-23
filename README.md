@@ -17,7 +17,7 @@
     * [Source](256b/fire253.asm)
     * [Video](https://youtu.be/oFza4WA_P8I)
 
-## All in archives
+## Archived
 [7zip](zip/An0ther0ne_INTRO.7z)
 
 ## Requirements:
