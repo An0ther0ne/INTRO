@@ -17,8 +17,8 @@
     * [Source](256b/fire253.asm)
     * [Video](https://youtu.be/oFza4WA_P8I)
 
-## Binaries
-All binaries are in the "bin" folder of this repository.
+## All in archives
+[7zip](zip/An0ther0ne_INTRO.7z)
 
 ## Requirements:
 * [DOSBox][1]
