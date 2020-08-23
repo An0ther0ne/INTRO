@@ -2,6 +2,7 @@
 
 ![m30.gif](img/m30.gif)
 ![fire256b.gif](img/fire256b.gif)
+![serpin29.gif](img/serpin29.gif)
 
 ## Content
 ### 32b PC INTRO
@@ -9,6 +10,12 @@
     * Size: 30 bytes
     * [Binary](bin/m30.com)
     * [Source](32b/m30.asm)
+    * [Video](https://youtu.be/QZiZrmliNeU)
+* serpin29
+    * Size 29 bytes
+    * [Binary](bin/serpin29.com)
+    * [Source](32b/serpin29.asm)
+    * [Video](https://youtu.be/Rqpn4422YCM)
 
 ### 256b PC INTRO
 * fire253
