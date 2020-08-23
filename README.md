@@ -20,7 +20,7 @@ All binaries are in the "bin" folder of this repository.
 
 ## Requirements:
 * [DOSBox][1]
-* Assembler
+* Assembly language
 
 # AUTHOR
    An0ther0ne
