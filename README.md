@@ -55,7 +55,7 @@
    An0ther0ne
 
 ## THANKS
-* HellMood
-* Special great thanks to Jin X'onik
+* **HellMood**
+* Special great thanks to **Jin X'onik**
 
 [1]: https://www.dosbox.com/ "DOSBox offisial site."
