@@ -1,8 +1,9 @@
 # PC INTRO demo
 
 ![m28.gif](img/m28.gif)
+![m28l.gif](img/m28l.gif)
 ![fire256b.gif](img/fire256b.gif)
-![serpin29n.gif](img/serpin29n.gif)
+![serpin28.gif](img/serpin28.gif)
 ![kasp16.gif](img/kasp16.gif)
 ![kasp2.gif](img/kasp2.gif)
 ![kasp3.gif](img/kasp3.gif)
@@ -16,10 +17,15 @@
     * [Binary](bin/m28.com)
     * [Source](32b/m28.asm)
     * [Video](https://youtu.be/QZiZrmliNeU)
-* serpin29
-    * Size: 29 bytes
-    * [Source](32b/serpin29.asm)
-    * [Binary](bin/serpin29.com)
+* m28l (variant)
+    * Size: 28 bytes
+    * [Binary](bin/m28l.com)
+    * [Source](32b/m28l.asm)
+    * [Video](https://youtu.be/m0Jq4N_2yBM)
+* serpin28
+    * Size: 28 bytes
+    * [Source](32b/serpin28.asm)
+    * [Binary](bin/serpin28.com)
     * [Video](https://youtu.be/Rqpn4422YCM)
 * kasp16
     * Based on [kasparov](https://www.pouet.net/prod.php?which=75912) from HellMood, DESiRE, 4/2018
