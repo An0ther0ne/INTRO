@@ -9,7 +9,7 @@ start:
 @mlop:
 	xor	di,	di
 	mov	si,	320
-	mov	cx,	320 * 199
+	mov	ch,	0FAh
 @line:
 	seges	lodsb
 	xor	ah,	al

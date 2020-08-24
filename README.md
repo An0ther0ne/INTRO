@@ -11,10 +11,10 @@
 
 ## Content
 ### 32b PC INTRO
-* m30
-    * Size: 29 bytes
-    * [Binary](bin/m30.com)
-    * [Source](32b/m30.asm)
+* m28
+    * Size: 28 bytes
+    * [Binary](bin/m28.com)
+    * [Source](32b/m28.asm)
     * [Video](https://youtu.be/QZiZrmliNeU)
 * serpin29
     * Size: 29 bytes
@@ -55,6 +55,7 @@
    An0ther0ne
 
 ## THANKS
-   Special thanks to Jin X'onik
+   HellMood
+   Special great thanks to Jin X'onik
 
 [1]: https://www.dosbox.com/ "DOSBox offisial site."
