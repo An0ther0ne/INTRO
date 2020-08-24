@@ -4,8 +4,6 @@ org 100h
 .386
 start:
 	les	bx,	dword ptr [bx]
-	push	es
-	pop	ds
 	mov	al,	13h
 	int	10h
 @mlop:
@@ -13,7 +11,7 @@ start:
 	mov	si,	320
 	mov	cx,	320 * 199
 @line:
-	lodsb
+	seges	lodsb
 	xor	ah,	al
 	xchg	ah,	al
 	or	al,	cl

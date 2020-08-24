@@ -12,7 +12,7 @@
 ## Content
 ### 32b PC INTRO
 * m30
-    * Size: 30 bytes
+    * Size: 29 bytes
     * [Binary](bin/m30.com)
     * [Source](32b/m30.asm)
     * [Video](https://youtu.be/QZiZrmliNeU)
@@ -53,5 +53,8 @@
 
 # AUTHOR
    An0ther0ne
+
+## THANKS
+   Special thanks to Jin X'onik
 
 [1]: https://www.dosbox.com/ "DOSBox offisial site."
