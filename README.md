@@ -1,6 +1,6 @@
 # PC INTRO demo
 
-![m30.gif](img/m30.gif)
+![m28.gif](img/m28.gif)
 ![fire256b.gif](img/fire256b.gif)
 ![serpin29n.gif](img/serpin29n.gif)
 ![kasp16.gif](img/kasp16.gif)
