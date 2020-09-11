@@ -9,9 +9,15 @@
 ![kasp3.gif](img/kasp3.gif)
 ![kasp21.gif](img/kasp21.gif)
 ![kasp26.gif](img/kasp26.gif)
+![emic.gif](img/emic.gif)
 
 ## Content
 ### 32b PC INTRO
+* emic
+    * Size: 32 bytes
+    * [Binary](bin/emic.com)
+    * [Source](32b/emic.asm)
+    * [Video](https://youtu.be/0QKpDIMG9C0)
 * m28
     * Size: 28 bytes
     * [Binary](bin/m28.com)
